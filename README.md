@@ -1,6 +1,6 @@
-# Luxury Car App
+# Car App
 
-This is a Flutter-based mobile application designed to showcase luxury cars and allow users to browse, share, bookmark, and purchase car ownership slots. The app includes multiple screens, such as a main listing page, a product detail page, and a review section for user feedback.
+This is a Flutter-based mobile application designed to showcase cars and allow users to browse, share, bookmark, and purchase car ownership slots. The app includes multiple screens, such as a main listing page, a product detail page, and a review section for user feedback.
 
 ## Features
 
